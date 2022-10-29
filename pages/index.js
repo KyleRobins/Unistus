@@ -18,8 +18,8 @@ function Index2() {
  
   return (
     <>
-      {/* <Header2 /> */}
-      {/* <div className="page-content bg-white">
+      <Header2 />
+      <div className="page-content bg-white">
         <Slider2 />
         <Service2 />
         <AboutUs2 />
@@ -30,9 +30,9 @@ function Index2() {
         <Testimonial2 />
         <Blog2 />
         <Clients2 />
-      </div> */}
-      <ComingSoon/>
-      {/* <Footer2 /> */}
+      </div>
+      {/* <ComingSoon/> */}
+      <Footer2 />
     </>
   );
 }
