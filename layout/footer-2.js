@@ -69,11 +69,11 @@ function Footer2() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our Services</h5>
 							<ul>
-								<li><a href="javascript:void(0);">Strategy & Research</a></li>
-								<li><a href="javascript:void(0);">Web Development</a></li>
-								<li><a href="javascript:void(0);">Web Solution</a></li>
-								<li><a href="javascript:void(0);">Digital Marketing</a></li>
-								<li><a href="javascript:void(0);">App Design </a></li>
+								<li><a href="/pages/contact-us-2.js">Brand & Printing</a></li>
+								<li><a href="/pages/contact-us-2.js">Events & Equipments</a></li>
+								<li><a href="/pages/contact-us-2.js">Brand Activations & Experential</a></li>
+								<li><a href="/pages/contact-us-2.js">Communication and Collateral</a></li>
+								<li><a href="/pages/contact-us-2.js">Community & Healthcare</a></li>
 							</ul>
 						</div>
                     </div>

@@ -113,25 +113,25 @@ function Header2() {
                                         <ul className="sub-menu">
 											<li><Link href="/about-us-2"><a>About Us</a></Link></li>
 											<li><Link href="/faq-2"><a>Faq</a></Link></li>
-											<li><Link href="/pricing-table-2"><a>Pricing Table</a></Link></li>
+											{/* <li><Link href="/pricing-table-2"><a>Pricing Table</a></Link></li> */}
 											<li><Link href="/team-2"><a>Team</a></Link></li>
-                                            <li><Link href="/coming-soon"><a>Coming Soon</a></Link></li>
+                                            {/* <li><Link href="/coming-soon"><a>Coming Soon</a></Link></li>
                                             <li><Link href="/error-404"><a>Error 404</a></Link></li>
-                                            <li><Link href="/sitedown"><a>Site Down</a></Link></li>
+                                            <li><Link href="/sitedown"><a>Site Down</a></Link></li> */}
                                         </ul>
                                     </li>
                                     <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Services</span><i className="fa fa-chevron-down"></i></a>
 										<ul className="sub-menu">
 											<li><Link href="/services-2"><a>Services</a></Link></li>
-											<li><Link href="/services-details-2"><a>Services Details</a></Link></li>
+											{/* <li><Link href="/services-details-2"><a>Services Details</a></Link></li> */}
 										</ul>
 									</li>
-									<li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
+									{/* <li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
 										<ul className="sub-menu">
 											<li><Link href="/blog-grid-2"><a>Blog Grid</a></Link></li>
 											<li><Link href="/blog-details-2"><a>Blog Details</a></Link></li>
 										</ul>
-									</li>
+									</li> */}
 									<li><Link href="/contact-us-2"><a>Contact Us</a></Link></li>
 									
                                 </ul>

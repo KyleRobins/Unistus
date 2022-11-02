@@ -9,20 +9,20 @@ function AboutUs_2() {
 				<div className="row align-items-center">
 					<div className="col-lg-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dz-media left">
-							<img src="images/about/pic1.jpg" alt=""/>
+							<img src="images/about/Aboutus.jpg" alt=""/>
 						</div>
 					</div>
 					<div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div className="section-head style-3">
 							<h6 className="sub-title text-primary bgl-primary m-b15">ABOUT US</h6>
-							<h2 className="title m-b20">We Have Creative Team To Build Your Website Better</h2>
-							<p>Proin laoreet leo vel enim gravida, at porttitor metus ultricies. Cras eu velit enim. Vivamus blandit, dolor ut aliquet rutrum, ex elit mattis sapien, non molestie felis neque et nulla. Sed euismod turpis id nibh suscipit semper. Pellentesque dapibus risus arcu.</p>
+							<h2 className="title m-b20">Connecting Your Brand</h2>
+							<p>Unistus Services was founded in the year 2016 to focus on connecting brands to the right audience through experiential and branding Unistus was registered in the year 2018 we comply with Kenya business registration requirements.</p>
 						</div>
 						<ul className="list-check primary m-b30">
-							<li>Suspendisse ullamcorper mollis orci in facilisis.</li>
-							<li>Etiam orci magna, accumsan varius enim volutpat.</li>
-							<li>Donec fringilla velit risus, in imperdiet turpis euismod quis.</li>
-							<li>Aliquam pulvinar diam tempor erat pellentesque, accumsan mauri.</li>
+							<li>Strategic Market Approach.</li>
+							<li>Branding And Printing.</li>
+							<li>Communication and Collateral.</li>
+							{/* <li>Aliquam pulvinar diam tempor erat pellentesque, accumsan mauri.</li> */}
 						</ul>
 						<Link href="about-us-2"><a className="btn btn-primary rounded-xl gradient">Learn More</a></Link>
 					</div>

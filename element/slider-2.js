@@ -64,7 +64,7 @@ function Slider2() {
             </div>
           </div>
           <img className="img2 move-1" src="images/pattern/pattern8.png" alt />
-          <img className="img3 move-2" src="images/pattern/pattern9.png" alt />
+          <img className="img3 move-2" src="images/main/pattern9.png" alt />
         </div>
       </div>
       <div className="dz-media">
