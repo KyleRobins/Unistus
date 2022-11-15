@@ -117,7 +117,7 @@ function Portfolio2() {
               active={filter === "web_design"}
               onClick={() => setFilter("web_design")}
             >
-              Web Design
+              Merchandising
             </a>
           </li>
           <li className={`btn ${filter === "web_development" ? "active" : ""}`}>
@@ -125,7 +125,7 @@ function Portfolio2() {
               active={filter === "web_development"}
               onClick={() => setFilter("web_development")}
             >
-              Web Development
+              Activations
             </a>
           </li>
           <li className={`btn ${filter === "branding" ? "active" : ""}`}>
@@ -141,12 +141,17 @@ function Portfolio2() {
               active={filter === "mobile_app"}
               onClick={() => setFilter("mobile_app")}
             >
-              Mobile App
+              Promotions
             </a>
           </li>
           <li className={`btn ${filter === "seo" ? "active" : ""}`}>
             <a active={filter === "seo"} onClick={() => setFilter("seo")}>
-              SEO
+            ERP Solutions
+            </a>
+          </li>
+          <li className={`btn ${filter === "printing" ? "active" : ""}`}>
+            <a active={filter === "seo"} onClick={() => setFilter("printing")}>
+              Printing
             </a>
           </li>
         </ul>
